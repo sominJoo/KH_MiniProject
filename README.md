@@ -15,7 +15,7 @@
 ---
 ## KIOSK 화면
 
-![Admin_file2](https://user-images.githubusercontent.com/59429551/105854517-57088080-602a-11eb-97da-cae6eb222b0b.png) ![Admin](https://user-images.githubusercontent.com/59429551/105854525-57a11700-602a-11eb-9898-b526694c418f.png) ![Admin_file](https://user-images.githubusercontent.com/59429551/105854526-5839ad80-602a-11eb-84f5-f1af45269d5e.png)
+<img src="https://user-images.githubusercontent.com/59429551/105854517-57088080-602a-11eb-97da-cae6eb222b0b.png"  width="700" height="370"> ![Admin](https://user-images.githubusercontent.com/59429551/105854525-57a11700-602a-11eb-9898-b526694c418f.png) ![Admin_file](https://user-images.githubusercontent.com/59429551/105854526-5839ad80-602a-11eb-84f5-f1af45269d5e.png)
 
 ![Cafeteria](https://user-images.githubusercontent.com/59429551/105854588-6ab3e700-602a-11eb-8aad-049cc781f074.png) ![Cafeteria2](https://user-images.githubusercontent.com/59429551/105854591-6b4c7d80-602a-11eb-83a2-9c4079213e21.png)
 
