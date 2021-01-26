@@ -14,15 +14,28 @@
 
 ---
 ## KIOSK 화면
+[Admin]
 
+![Admin](https://user-images.githubusercontent.com/59429551/105856660-d13a0480-602c-11eb-851c-7b2fc707d18b.png)
+![Admin_file](https://user-images.githubusercontent.com/59429551/105856663-d1d29b00-602c-11eb-9e2a-0a1f17cd5886.png)
 ![Admin_file2](https://user-images.githubusercontent.com/59429551/105856642-ce3f1400-602c-11eb-870e-bffe4a7304ae.png)
+
+
+[Cafeteria]
+
+![Cafeteria](https://user-images.githubusercontent.com/59429551/105856648-d008d780-602c-11eb-9b1c-c45cdbce6377.png)
+![Cafeteria2](https://user-images.githubusercontent.com/59429551/105856649-d0a16e00-602c-11eb-871e-0842beb9fdb6.png)
+
+
+[Admin]
+
 ![admin2](https://user-images.githubusercontent.com/59429551/105856643-ced7aa80-602c-11eb-9e33-91fdc4cc13f6.png)
 ![admin3](https://user-images.githubusercontent.com/59429551/105856645-cf704100-602c-11eb-884e-0592ffcde962.png)
 ![admin4](https://user-images.githubusercontent.com/59429551/105856646-cf704100-602c-11eb-87dc-f9cd4f4f131c.png)
-![Cafeteria](https://user-images.githubusercontent.com/59429551/105856648-d008d780-602c-11eb-9b1c-c45cdbce6377.png)
-![Cafeteria2](https://user-images.githubusercontent.com/59429551/105856649-d0a16e00-602c-11eb-871e-0842beb9fdb6.png)
+
+
+[Pay]
+
 ![Pay1](https://user-images.githubusercontent.com/59429551/105856652-d0a16e00-602c-11eb-97e4-6e01fe384776.png)
 ![Pay2](https://user-images.githubusercontent.com/59429551/105856654-d13a0480-602c-11eb-9d25-2be4d6700b1a.png)
 ![Pay3](https://user-images.githubusercontent.com/59429551/105856657-d13a0480-602c-11eb-8e0e-5b43e84daa26.png)
-![Admin](https://user-images.githubusercontent.com/59429551/105856660-d13a0480-602c-11eb-851c-7b2fc707d18b.png)
-![Admin_file](https://user-images.githubusercontent.com/59429551/105856663-d1d29b00-602c-11eb-9e2a-0a1f17cd5886.png)
