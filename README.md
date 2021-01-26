@@ -15,13 +15,14 @@
 ---
 ## KIOSK 화면
 
-![Admin_file2](https://user-images.githubusercontent.com/59429551/105855499-7fdd4580-602b-11eb-8540-b46b3d4f92e6.png) ![Admin](https://user-images.githubusercontent.com/59429551/105855501-8075dc00-602b-11eb-9630-dd0aca83f377.png) ![Admin_file](https://user-images.githubusercontent.com/59429551/105855504-810e7280-602b-11eb-9655-008d62adf1d5.png)
-
-![Cafeteria](https://user-images.githubusercontent.com/59429551/105855534-8b307100-602b-11eb-9250-83511f6695e2.png) ![Cafeteria2](https://user-images.githubusercontent.com/59429551/105855539-8c619e00-602b-11eb-9f71-5945a8ee028f.png)
-
-
-![admin4](https://user-images.githubusercontent.com/59429551/105855558-908dbb80-602b-11eb-93c8-adc3732159ca.png) ![admin2](https://user-images.githubusercontent.com/59429551/105855565-91bee880-602b-11eb-835c-269972d45f2e.png) ![admin3](https://user-images.githubusercontent.com/59429551/105855568-91bee880-602b-11eb-888f-6151e5241613.png)
-
-
-
-![Pay1](https://user-images.githubusercontent.com/59429551/105855755-c468e100-602b-11eb-8c34-c74865a0a94b.png) ![Pay2](https://user-images.githubusercontent.com/59429551/105855758-c59a0e00-602b-11eb-9f3a-7e34f8c62c94.png) ![Pay3](https://user-images.githubusercontent.com/59429551/105855759-c59a0e00-602b-11eb-8736-ef8f5138eaef.png)
+![Pay2](https://user-images.githubusercontent.com/59429551/105856158-3b9e7500-602c-11eb-8ddd-30c264a0053e.png)
+![Pay3](https://user-images.githubusercontent.com/59429551/105856160-3b9e7500-602c-11eb-8a1b-2d16cbc1fdaa.png)
+![Admin](https://user-images.githubusercontent.com/59429551/105856161-3c370b80-602c-11eb-9da4-f62857b06a66.png)
+![Admin_file](https://user-images.githubusercontent.com/59429551/105856164-3c370b80-602c-11eb-8aae-3e3b03838ba5.png)
+![Admin_file2](https://user-images.githubusercontent.com/59429551/105856166-3ccfa200-602c-11eb-8f84-ba77e875cce2.png)
+![admin2](https://user-images.githubusercontent.com/59429551/105856167-3ccfa200-602c-11eb-9203-a759a9ce07e4.png)
+![admin3](https://user-images.githubusercontent.com/59429551/105856143-393c1b00-602c-11eb-9f74-3ab0f9ceb797.png)
+![admin4](https://user-images.githubusercontent.com/59429551/105856151-3a6d4800-602c-11eb-9d42-307819ffe5cc.png)
+![Cafeteria](https://user-images.githubusercontent.com/59429551/105856152-3a6d4800-602c-11eb-91bd-95cec41796ed.png)
+![Cafeteria2](https://user-images.githubusercontent.com/59429551/105856154-3b05de80-602c-11eb-8b25-41890b7e06a3.png)
+![Pay1](https://user-images.githubusercontent.com/59429551/105856156-3b05de80-602c-11eb-954b-84171bf9664c.png)
