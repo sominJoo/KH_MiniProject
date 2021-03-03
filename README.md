@@ -24,10 +24,14 @@
 
 
 
+
+
 - [Cafeteria] - 학생들이 메뉴를 고르고 결제할 수 있다.
 
 ![Cafeteria](https://user-images.githubusercontent.com/59429551/105856648-d008d780-602c-11eb-9b1c-c45cdbce6377.png)
 ![Cafeteria2](https://user-images.githubusercontent.com/59429551/105856649-d0a16e00-602c-11eb-871e-0842beb9fdb6.png)
+
+
 
 
 
@@ -36,6 +40,8 @@
 ![admin2](https://user-images.githubusercontent.com/59429551/105856643-ced7aa80-602c-11eb-9e33-91fdc4cc13f6.png)
 ![admin3](https://user-images.githubusercontent.com/59429551/105856645-cf704100-602c-11eb-884e-0592ffcde962.png)
 ![admin4](https://user-images.githubusercontent.com/59429551/105856646-cf704100-602c-11eb-87dc-f9cd4f4f131c.png)
+
+
 
 
 
