@@ -16,7 +16,7 @@
 
 ---
 ## KIOSK 화면
-[Admin] - 메뉴를 입력하거나 파일 탐색기를 이용해 메뉴가 저장된 파일을 불러올 수 있다.
+- [Admin] - 메뉴를 입력하거나 파일 탐색기를 이용해 메뉴가 저장된 파일을 불러올 수 있다.
 
 ![Admin](https://user-images.githubusercontent.com/59429551/105856660-d13a0480-602c-11eb-851c-7b2fc707d18b.png)
 ![Admin_file](https://user-images.githubusercontent.com/59429551/105856663-d1d29b00-602c-11eb-9e2a-0a1f17cd5886.png)
@@ -24,14 +24,14 @@
 
 
 
-[Cafeteria] - 학생들이 메뉴를 고르고 결제할 수 있다.
+- [Cafeteria] - 학생들이 메뉴를 고르고 결제할 수 있다.
 
 ![Cafeteria](https://user-images.githubusercontent.com/59429551/105856648-d008d780-602c-11eb-9b1c-c45cdbce6377.png)
 ![Cafeteria2](https://user-images.githubusercontent.com/59429551/105856649-d0a16e00-602c-11eb-871e-0842beb9fdb6.png)
 
 
 
-[Admin] - 오늘 판매한 판매량을 볼 수 있으며, 정산을 할 수 있다.
+- [Calculate] - 오늘 판매한 판매량을 볼 수 있으며, 정산을 할 수 있다.
 
 ![admin2](https://user-images.githubusercontent.com/59429551/105856643-ced7aa80-602c-11eb-9e33-91fdc4cc13f6.png)
 ![admin3](https://user-images.githubusercontent.com/59429551/105856645-cf704100-602c-11eb-884e-0592ffcde962.png)
@@ -39,7 +39,7 @@
 
 
 
-[Pay] - 결제를 하고 티켓을 발권가능하다.
+- [Pay] - 결제를 하고 티켓을 발권가능하다.
 
 ![Pay1](https://user-images.githubusercontent.com/59429551/105856652-d0a16e00-602c-11eb-97e4-6e01fe384776.png)
 ![Pay2](https://user-images.githubusercontent.com/59429551/105856654-d13a0480-602c-11eb-9d25-2be4d6700b1a.png)
