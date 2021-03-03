@@ -13,7 +13,7 @@
 
 ---
 ## KIOSK 화면
-[Admin] - 메뉴를 입력하거나 메뉴가 저장된 파일을 불러올 수 있다.
+[Admin] - 메뉴를 입력하거나 파일 탐색기를 이용해 메뉴가 저장된 파일을 불러올 수 있다.
 
 ![Admin](https://user-images.githubusercontent.com/59429551/105856660-d13a0480-602c-11eb-851c-7b2fc707d18b.png)
 ![Admin_file](https://user-images.githubusercontent.com/59429551/105856663-d1d29b00-602c-11eb-9e2a-0a1f17cd5886.png)
